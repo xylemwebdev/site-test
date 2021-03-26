@@ -5,6 +5,19 @@ description: |-
   Xylem Literary Magazine is an independent, student-run literary magazine at the University of Michigan that annually publishes original undergraduate student writing and art, including poetry, fiction, creative nonfiction, artwork and photography.
 
   The journal exclusively features the creative work of University of Michigan undergraduates, and all aspects of the journal’s publicity, production, and publication are student-run. All students are encouraged to submit writing and art for consideration. Beyond submitting work, there are numerous other ways to become involved in the creation of Xylem − from advertising to layout design to selecting pieces for publication.
+
+
+  STAFF
+
+  Clare Godfryd
+
+  Ajay Pillay
+
+  Maia Muzumdar
+
+  Tejal Mahajan
+
+  Simran Malik
 about:
   enable: true
   title: Who we're looking for
