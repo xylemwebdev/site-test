@@ -39,6 +39,11 @@ pre = "#"
 url = "contact"
 weight = 5
 
+[[menu.main]]
+name = "AboutUs"
+pre = ""
+url = "aboutus"
+weight = 6
 
 #################### default parameters ################################
 [params]
