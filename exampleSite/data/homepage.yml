@@ -23,7 +23,7 @@ vision:
   enable: true
   section: VISION
   vision_item:
-  - title: People First
+  - title: ''
     image: images/vision/vision-01.jpg
     content: create something weird, artsy, poetic, <br> wacky, beautiful, terrifying
       - you get the idea.
