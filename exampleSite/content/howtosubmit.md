@@ -8,10 +8,10 @@ description: "At Xylem, we believe in the creative power of the unrestrained ima
   how about screenplays, word art, prose-poetry, one-act plays, photographed sculpture,
   songs, puns, paintings, slam poetry, etchings, memoirs, fairy tales, cartoons, journal
   entries, interviews, limericks, anime, flash fiction, exquisite corpses, collages,
-  or blackout poetry? We want Xylem to reflect the expansiveness of the artistic mind.\n\n\nGeneral
+  or blackout poetry? We want Xylem to reflect the expansiveness of the artistic mind.\n\nGeneral
   Guidelines\n\nCreate something weird, artsy, poetic, wacky, beautiful, terrifying,
   funny, whimsical … you get the idea.\n\nSend it to us at xylemsubmit@gmail.com.\n\nDo
-  it again. And again. And tell your friends to do it.\n\n\nThe Detailed Requirements\n\nWe
+  it again. And again. And tell your friends to do it.\n\nThe Detailed Requirements\n\nWe
   have a blind submissions process to make everything fair and square. Please include
   your name and contact info in the body of your email or attached as a separate cover
   sheet, but leave your name off the creative work itself. This allows for all of
