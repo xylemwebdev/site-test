@@ -43,7 +43,7 @@
     position: relative;
     z-index: 6;
     &::before{
-        content: 'MADE THINGS';
+        content: '';
         font-family: $secondary-font;
         position: absolute;
         top: 18%;
