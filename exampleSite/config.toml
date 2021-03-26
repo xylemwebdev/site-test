@@ -1,100 +1,72 @@
-######################## default configuration ####################
 baseURL = "https://examplesite.com"
-title = "OMEGA"
+googleAnalytics = ""
 theme = "omega"
-# google analytics
-googleAnalytics = "" # example : UA-123-45
+title = "OMEGA"
 [markup.goldmark.renderer]
-unsafe= true
-
-######################### navigation ##############################
-
+unsafe = true
 [[menu.main]]
 name = "home"
 pre = ""
 url = "/"
 weight = 1
-
 [[menu.main]]
 name = "about"
 pre = ""
 url = "about"
 weight = 2
-
 [[menu.main]]
 name = "publications"
 pre = ""
 url = "publications"
 weight = 3
-
 [[menu.main]]
 name = "how to submit"
 pre = ""
 url = "howtosubmit"
 weight = 4
-
 [[menu.main]]
 name = "contact"
 pre = ""
 url = "contact"
 weight = 5
-
-
-#################### default parameters ################################
 [params]
-logo = "images/logo.png"
-logo_width = "120px"
-# Meta data
-description = "This is meta description"
 author = "Themefisher"
-# contact info
 contact_info = "1001 Brickell bay <br>Dr. Miami, <br>FL 33131"
-# Preloader
+description = "This is meta description"
+logo = "/images/xylemlogo.png"
+logo_width = "120px"
 preloader = true
-# google map
+[params.cookies]
+enable = true
+expire_days = 2
 [params.map]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCC72vZw-6tGqFyRhhg5CkF2fqfILn2Tsw"
 map_center_lat = "25.773606"
 map_center_lng = "-80.732655"
+map_marker = "images/map-marker.png"
 map_position_lat = "25.7635916"
 map_position_lng = "-80.1937595"
-map_marker = "images/map-marker.png"
-
+[[params.social]]
+icon = "fa-facebook"
+link = "#"
+title = "facebook"
+[[params.social]]
+icon = "fa-twitter"
+link = "#"
+title = "twitter"
+[[params.social]]
+icon = "fa-instagram"
+link = "#"
+title = "instagram"
+[[params.social]]
+icon = "fa-github"
+link = "#"
+title = "github"
+[[params.social]]
+icon = "fa-linkedin"
+link = "#"
+title = "linkedin"
 [permalinks]
 post = "/about/"
 top = "/:filename/"
-
-# cookies
-[params.cookies]
-enable = true
-expire_days = 2
-
-
-
-
-############################# social site ########################
-[[params.social]]
-title = "facebook"
-icon = "fa-facebook" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "#"
-
-[[params.social]]
-title = "twitter"
-icon = "fa-twitter" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "#"
-
-[[params.social]]
-title = "instagram"
-icon = "fa-instagram" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "#"
-
-[[params.social]]
-title = "github"
-icon = "fa-github" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "#"
-
-[[params.social]]
-title = "linkedin"
-icon = "fa-linkedin" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "#"
