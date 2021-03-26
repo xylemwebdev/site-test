@@ -1,5 +1,5 @@
 ---
-title: About
+title: about
 layout: career
 description: "Xylem Literary Magazine is an independent, student-run literary magazine
   at the University of Michigan that annually publishes original undergraduate student
