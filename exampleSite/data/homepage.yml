@@ -9,7 +9,7 @@ banner:
     label: WHAT WE DO
     link: "#products"
 mission:
-  enable: true
+  enable: false
   title: Propel Advancement
   section: MISSION
   content: Introducing the world’s first Advancement Company. As we enter the dawn
