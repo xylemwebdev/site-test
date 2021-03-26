@@ -22,9 +22,9 @@ url = "about"
 weight = 2
 
 [[menu.main]]
-name = "Products"
-pre = "#"
-url = "products"
+name = "Publications"
+pre = ""
+url = "publications"
 weight = 3
 
 [[menu.main]]
