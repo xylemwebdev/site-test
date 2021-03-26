@@ -10,31 +10,31 @@ unsafe= true
 ######################### navigation ##############################
 
 [[menu.main]]
-name = "Home"
+name = "home"
 pre = ""
 url = "/"
 weight = 1
 
 [[menu.main]]
-name = "About"
+name = "about"
 pre = ""
 url = "about"
 weight = 2
 
 [[menu.main]]
-name = "Publications"
+name = "publications"
 pre = ""
 url = "publications"
 weight = 3
 
 [[menu.main]]
-name = "How to Submit"
+name = "how to submit"
 pre = ""
 url = "howtosubmit"
 weight = 4
 
 [[menu.main]]
-name = "Contact"
+name = "contact"
 pre = ""
 url = "contact"
 weight = 5
