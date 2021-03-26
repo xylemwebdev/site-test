@@ -27,7 +27,7 @@ vision:
     image: images/vision/vision-01.jpg
     content: create something weird, artsy, poetic, <br> wacky, beautiful, terrifying
       - you get the idea.
-  - title: Employee Culture
+  - title: ''
     image: images/vision/vision-02.jpg
     content: send it to us at xylemsubmit@gmail.com
 product:
