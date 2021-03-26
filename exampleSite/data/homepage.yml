@@ -21,7 +21,7 @@ mission:
   video_id: ResipmZmpDU
 vision:
   enable: true
-  section: VISION
+  section: ''
   vision_item:
   - title: ''
     image: images/vision/vision-01.jpg
