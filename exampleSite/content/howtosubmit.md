@@ -1,5 +1,5 @@
 ---
-title: How to Submit
+title: how to submit
 layout: career
 description: "At Xylem, we believe in the creative power of the unrestrained imagination.
   That’s why our only true requirement for submissions to the magazine is that your
