@@ -28,9 +28,9 @@ url = "publications"
 weight = 3
 
 [[menu.main]]
-name = "Career"
+name = "How to Submit"
 pre = ""
-url = "career"
+url = "howtosubmit"
 weight = 4
 
 [[menu.main]]
