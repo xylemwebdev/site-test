@@ -61,6 +61,10 @@ map_position_lat = "25.7635916"
 map_position_lng = "-80.1937595"
 map_marker = "images/map-marker.png"
 
+[permalinks]
+post = "/aboutus/"
+top = "/:filename/"
+
 # cookies
 [params.cookies]
 enable = true
