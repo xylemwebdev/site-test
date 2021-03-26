@@ -54,7 +54,7 @@ product:
       See how this revolutionarys oftware can become the center of your business.
     project_url: "#"
 contact:
-  enable: true
+  enable: false
   section: CONTACT US
   title: reach us
   image: images/map-bg.jpg
@@ -63,7 +63,7 @@ contact:
     new age with the right mindset. Contact us today to begin understanding how Omega
     can propel your business.
 call_to_action:
-  enable: true
+  enable: false
   title: Join the Omega family. <br>Click below to view the career opportunities we
     have for you.
   button_label: Apply Now
