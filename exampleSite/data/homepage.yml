@@ -10,11 +10,13 @@ banner:
     link: "#products"
 mission:
   enable: false
-  title: Propel Advancement
-  section: MISSION
-  content: Introducing the world’s first Advancement Company. As we enter the dawn
-    of the digital age a significant leap must be made to propel the world into the
-    age of advancement.
+  title: About Us
+  section: ''
+  content: Xylem Literary Magazine is an independent, student-run literary magazine
+    at the University of Michigan that annually publishes original undergraduate student
+    writing and art, including poetry, fiction, creative nonfiction, artwork and photography.
+    The journal exclusively features the creative work of University of Michigan undergraduates,
+    and all aspects of the journal’s publicity, production, and publication are student-run.
   video_thumb: images/video-thumb.jpg
   video_id: ResipmZmpDU
 vision:
