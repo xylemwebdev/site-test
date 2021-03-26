@@ -9,8 +9,8 @@ description: "Xylem Literary Magazine is an independent, student-run literary ma
   All students are encouraged to submit writing and art for consideration. Beyond
   submitting work, there are numerous other ways to become involved in the creation
   of Xylem − from advertising to layout design to selecting pieces for publication.\n\n\nSTAFF\n\nClare
-  Godfryd                         Ajay Pillay                \nMaia Muzumdar\n\nTejal
-  Mahajan                       Simran Malik"
+  Godfryd\n\nAjay Pillay\n               \nMaia Muzumdar\n\nTejal Mahajan\n\nSimran
+  Malik"
 about:
   enable: true
   title: Who we're looking for
