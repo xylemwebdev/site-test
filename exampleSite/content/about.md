@@ -1,4 +1,3 @@
-type = "page"
 ---
 title : "Career"
 layout: "career"
