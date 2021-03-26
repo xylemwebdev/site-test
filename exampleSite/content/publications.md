@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: publications
 layout: career
 description: Add Xylem past publications here
 about:
