@@ -9,14 +9,12 @@ banner:
     label: WHAT WE DO
     link: "#products"
 mission:
-  enable: false
+  enable: true
   title: about us
   section: ''
-  content: Xylem Literary Magazine is an independent, student-run literary magazine
+  content: 'Xylem Literary Magazine is an independent, student-run literary magazine
     at the University of Michigan that annually publishes original undergraduate student
-    writing and art, including poetry, fiction, creative nonfiction, artwork and photography.
-    The journal exclusively features the creative work of University of Michigan undergraduates,
-    and all aspects of the journal’s publicity, production, and publication are student-run.
+    writing and art, including poetry, fiction, creative nonfiction, artwork and photography. '
   video_thumb: ''
   video_id: ''
 vision:
