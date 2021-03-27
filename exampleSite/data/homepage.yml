@@ -28,7 +28,7 @@ vision:
     content: create something weird, artsy, poetic, <br> wacky, beautiful, terrifying
       - you get the idea.
   - title: ''
-    image: images/vision/vision-02.jpg
+    image: "/images/leaf2.png"
     content: send it to us at xylemsubmit@gmail.com
 product:
   enable: false
