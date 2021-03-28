@@ -91,6 +91,11 @@ career:
     - 'Self-motivation: You manage your own milestones, deadlines, and priorities'
 
 ---
-<div style="height:50px;display:flex;justify-content:center;align-items:center">
-	Test
+<div style="display:flex;justify-content:center;align-items:center">
+	<a href="https://www.facebook.com/xylemlitmag/">
+      <img src="/images/facebook-logo.svg" style="height:20px;width:auto;" />
+  	</a>
+	<a href="https://www.instagram.com/xylemlitmag/">
+      <img src="/images/instagram-logo.svg" style="height:20px;width:auto;" />
+  	</a>
 </div>
