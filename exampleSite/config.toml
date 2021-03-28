@@ -1,7 +1,7 @@
 baseURL = "https://examplesite.com"
 googleAnalytics = ""
 theme = "omega"
-title = "OMEGA"
+title = "Xylem Literary Magazine"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
@@ -31,7 +31,7 @@ url = "contact"
 weight = 5
 [params]
 author = "Themefisher"
-contact_info = "1001 Brickell bay <br>Dr. Miami, <br>FL 33131"
+contact_info = ""
 description = "This is meta description"
 logo = "/images/xylemlogo.png"
 logo_width = "120px"
