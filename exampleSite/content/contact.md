@@ -93,7 +93,7 @@ career:
 ---
 <div style="display:flex;justify-content:center;align-items:center">
 	<a href="https://www.facebook.com/xylemlitmag/">
-      <img src="/images/facebook-logo.svg" style="height:20px;width:auto;margin-left:20px;" />
+      <img src="/images/facebook-logo.svg" style="height:20px;width:auto;margin-right:20px;" />
   	</a>
 	<a href="https://www.instagram.com/xylemlitmag/">
       <img src="/images/instagram-logo.svg" style="height:20px;width:auto;" />
