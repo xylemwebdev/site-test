@@ -1,16 +1,10 @@
 ---
 title: about
 layout: career
-description: "Xylem Literary Magazine is an independent, student-run literary magazine
-  at the University of Michigan that annually publishes original undergraduate student
-  writing and art, including poetry, fiction, creative nonfiction, artwork and photography.\n\nThe
-  journal exclusively features the creative work of University of Michigan undergraduates,
-  and all aspects of the journal’s publicity, production, and publication are student-run.
-  All students are encouraged to submit writing and art for consideration. Beyond
-  submitting work, there are numerous other ways to become involved in the creation
-  of Xylem − from advertising to layout design to selecting pieces for publication.\n\n\nSTAFF\n\nClare
-  Godfryd\n\nAjay Pillay\n               \nMaia Muzumdar\n\nTejal Mahajan\n\nSimran
-  Malik"
+description: |-
+  Xylem Literary Magazine is an independent, student-run literary magazine at the University of Michigan that annually publishes original undergraduate student writing and art, including poetry, fiction, creative nonfiction, artwork and photography.
+
+  The journal exclusively features the creative work of University of Michigan undergraduates, and all aspects of the journal’s publicity, production, and publication are student-run. All students are encouraged to submit writing and art for consideration. Beyond submitting work, there are numerous other ways to become involved in the creation of Xylem − from advertising to layout design to selecting pieces for publication.
 about:
   enable: true
   title: Who we're looking for
@@ -99,6 +93,9 @@ career:
 ---
 <div style="width:100%;display:flex;align-items:center;justify-content:center;font-family:">
 	<style type="text/css" scoped>
+    .staffCloudHeader {
+   		width: 100%;
+    }
     .staffCloudText {
       font-family: "bebas_neue_regular";
       color: #FFEBCD;
@@ -106,6 +103,7 @@ career:
       letter-spacing: 1px;  	
     }
   	</style>
+  <h1 class="staffCloudHeader">STAFF</h1>
   <p class="staffCloudText">Clare Godfryd</p>
   <p class="staffCloudText">Simran Malik</p>
   <p class="staffCloudText">Maia Muzumdar</p>
