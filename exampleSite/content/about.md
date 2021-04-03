@@ -97,3 +97,34 @@ career:
     - 'Self-motivation: You manage your own milestones, deadlines, and priorities'
 
 ---
+<div style="width:100%;display:flex;align-items:center;justify-content:center;font-family:">
+	<style type="text/css" scoped>
+    .staffCloudText {
+      font-family: "bebas_neue_regular";
+      color: #FFEBCD;
+      font-size: 16px;
+      letter-spacing: 1px;  	
+    }
+  	</style>
+  <p class="staffCloudText">Clare Godfryd</p>
+  <p class="staffCloudText">Simran Malik</div>
+  <p class="staffCloudText">Maia Muzumdar</p>
+  <p class="staffCloudText">Tejal Mahajan</p>
+  <p class="staffCloudText">Ajay Pillay</p>
+  <p class="staffCloudText">Staff XYZ</p>
+  <p class="staffCloudText">Staff XYZ</p>
+  <p class="staffCloudText">Staff XYZ</p>
+  <p class="staffCloudText">Staff XYZ</p>
+  <p class="staffCloudText">Staff XYZ</p>
+  <p class="staffCloudText">Staff XYZ</p>
+  <p class="staffCloudText">Staff XYZ</p>
+  <p class="staffCloudText">Staff XYZ</p>
+  <p class="staffCloudText">Staff XYZ</p>
+  <p class="staffCloudText">Staff XYZ</p>
+  <p class="staffCloudText">Staff XYZ</p>
+  <p class="staffCloudText">Staff XYZ</p>
+  <p class="staffCloudText">Staff XYZ</p>
+  <p class="staffCloudText">Staff XYZ</p>
+  <p class="staffCloudText">Staff XYZ</p>
+  <p class="staffCloudText">Staff XYZ</p>
+</div>
