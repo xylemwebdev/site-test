@@ -107,7 +107,7 @@ career:
     }
   	</style>
   <p class="staffCloudText">Clare Godfryd</p>
-  <p class="staffCloudText">Simran Malik</div>
+  <p class="staffCloudText">Simran Malik</p>
   <p class="staffCloudText">Maia Muzumdar</p>
   <p class="staffCloudText">Tejal Mahajan</p>
   <p class="staffCloudText">Ajay Pillay</p>
