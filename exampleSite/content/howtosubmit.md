@@ -12,8 +12,8 @@ description: |-
   <p align="left"> 2. Send it to us at xylemsubmit@gmail.com. </p>
   <p align="left"> 3. Do it again. And again. And tell your friends to do it. </p>
 
-  <br>
   <hr>
+  <br>
 
   <p align="left">We have a blind submissions process to make everything fair and square. Please include your name and contact info in the body of your email or attached as a separate cover sheet, but leave your name off the creative work itself. This allows for all of our staff to consider your submissions anonymously.</p>
 
