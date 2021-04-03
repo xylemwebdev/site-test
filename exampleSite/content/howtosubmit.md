@@ -14,9 +14,7 @@ description: |-
 
   Submit away! Multiple submissions of all kinds of art — visual, written, recorded — are welcome, but please limit yourself to 5 submissions.
 
-  For written work, please submit in one of the following formats: .docx / .doc  / .rtf
-
-  For artwork, please submit in one of the following formats: .jpg / .tiff
+  For written work, please submit in one of the following formats: .docx / .doc  / .rtf.  For artwork, please submit in one of the following formats: .jpg / .tiff
 about:
   enable: true
   title: Who we're looking for
