@@ -4,13 +4,14 @@ layout: career
 description: |+
   <p><a href="/images/xylem-19-20-pdf-web.pdf">Xylem 2019-2020 Edition</a></p>
 
-  Xylem Previous Publications
 
-  <p><a href="/images/xylem-19-20-pdf-web.pdf">Xylem 2018-2019 Edition</a></p>
+  <h5 align="left">Xylem Previous Publications</h5>
 
-  <p><a href="/images/xylem-19-20-pdf-web.pdf">Xylem 2017-2018 Edition</a></p>
+  <p align="left"><a href="/images/xylem-19-20-pdf-web.pdf">Xylem 2018-2019 Edition</a></p>
 
-  <p><a href="/images/xylem-19-20-pdf-web.pdf">Xylem 2016-2017 Edition</a></p>
+  <p align="left"><a href="/images/xylem-19-20-pdf-web.pdf">Xylem 2017-2018 Edition</a></p>
+
+  <p align="left"><a href="/images/xylem-19-20-pdf-web.pdf">Xylem 2016-2017 Edition</a></p>
 
 about:
   enable: true
