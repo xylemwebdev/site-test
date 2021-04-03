@@ -3,12 +3,7 @@ title: how to submit
 layout: career
 description: "At Xylem, we believe in the creative power of the unrestrained imagination.
   That’s why our only true requirement for submissions to the magazine is that your
-  original creative work is shareable with the great wide world out there. \n\nOf
-  course, send us poetry, short stories, creative nonfiction and photography. But
-  how about screenplays, word art, prose-poetry, one-act plays, photographed sculpture,
-  songs, puns, paintings, slam poetry, etchings, memoirs, fairy tales, cartoons, journal
-  entries, interviews, limericks, anime, flash fiction, exquisite corpses, collages,
-  or blackout poetry? We want Xylem to reflect the expansiveness of the artistic mind.\n\nGeneral
+  original creative work is shareable with the great wide world out there. \n\nGeneral
   Guidelines\n\nCreate something weird, artsy, poetic, wacky, beautiful, terrifying,
   funny, whimsical … you get the idea.\n\nSend it to us at xylemsubmit@gmail.com.\n\nDo
   it again. And again. And tell your friends to do it.\n\nThe Detailed Requirements\n\nWe
