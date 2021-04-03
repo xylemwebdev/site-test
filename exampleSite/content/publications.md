@@ -3,7 +3,7 @@ title: publications
 layout: career
 description: |+
   <h5>Xylem 2019-2020 Edition</h5>
-  <p align="center"><iframe src="/images/xylem-19-20-pdf-web.pdf" height="800" width="1200"></iframe></p>
+  <p align="center"><iframe src="/images/xylem-19-20-pdf-web.pdf" height="600" width="900"></iframe></p>
 
   <h5>Xylem Previous Publications</h5>
 
