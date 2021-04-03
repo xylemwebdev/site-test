@@ -5,13 +5,15 @@ description: |+
   <h5>Xylem 2019-2020 Edition</h5>
   <p align="center"><iframe src="/images/xylem-19-20-pdf-web.pdf" height="500" width="700"></iframe></p>
 
+  <br><br>
+
   <h5>Xylem Previous Publications</h5>
 
-  <p><a href="/images/xylem-19-20-pdf-web.pdf">Xylem 2018-2019 Edition</a></p>
+  <p><a href="/images/xylem-19-20-pdf-web.pdf" style="text-decoration: none">Xylem 2018-2019 Edition</a></p>
 
-  <p><a href="/images/xylem-19-20-pdf-web.pdf">Xylem 2017-2018 Edition</a></p>
+  <p><a href="/images/xylem-19-20-pdf-web.pdf" style="text-decoration: none">Xylem 2017-2018 Edition</a></p>
 
-  <p><a href="/images/xylem-19-20-pdf-web.pdf">Xylem 2016-2017 Edition</a></p>
+  <p><a href="/images/xylem-19-20-pdf-web.pdf" style="text-decoration: none">Xylem 2016-2017 Edition</a></p>
 
 about:
   enable: true
