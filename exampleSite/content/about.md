@@ -92,7 +92,7 @@ career:
 draft: true
 
 ---
-<div style="width:100%;display:flex;align-items:center;justify-content:center;font-family:">
+<div style="width:100%;display:flex;align-items:center;justify-content:center;flex-wrap:wrap;">
 	<style type="text/css" scoped>
     .staffCloudHeader {
    		width: 100%;
