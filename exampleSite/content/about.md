@@ -95,6 +95,7 @@ career:
 	<style type="text/css" scoped>
     .staffCloudHeader {
    		width: 100%;
+      	text-align: center;
     }
     .staffCloudText {
       font-family: "bebas_neue_regular";
@@ -107,7 +108,7 @@ career:
       margin-right: 1rem;
     }
   	</style>
-  <h1 class="staffCloudHeader">STAFF</h1>
+  <h1 class="staffCloudHeader">staff</h1>
   <p class="staffCloudText">Clare Godfryd</p>
   <p class="staffCloudText">Simran Malik</p>
   <p class="staffCloudText">Maia Muzumdar</p>
