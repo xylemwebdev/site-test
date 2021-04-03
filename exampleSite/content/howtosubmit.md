@@ -90,13 +90,11 @@ career:
 ---
 At Xylem, we believe in the creative power of the unrestrained imagination. That’s why our only true requirement for submissions to the magazine is that your original creative work is shareable with the great wide world out there.
 
-<h2>General Guidelines</h2>
+<h3>General Guidelines</h3>
 
 1. Create something weird, artsy, poetic, wacky, beautiful, terrifying, funny, whimsical … you get the idea.
 2.  Send it to us at xylemsubmit@gmail.com.
 3. Do it again. And again. And tell your friends to do it.
-
-</h2>The Detailed Requirements</h2>
 
 We have a blind submissions process to make everything fair and square. Please include your name and contact info in the body of your email or attached as a separate cover sheet, but leave your name off the creative work itself. This allows for all of our staff to consider your submissions anonymously.
 
