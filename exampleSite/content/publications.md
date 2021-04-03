@@ -11,7 +11,7 @@ description: |+
 
   <p><a href="/images/xylem-19-20-pdf-web.pdf" style="text-decoration: none">Xylem 2018-2019 Edition</a></p>
 
-  <p><a href="/images/xylem-19-20-pdf-web.pdf" style="text-decoration: none">Xylem 2017-2018 Edition</a></p>
+  <p><a href="/images/xylem-19-20-pdf-web.pdf" style="text-decoration: none; color: #FFEBCD">Xylem 2017-2018 Edition</a></p>
 
   <p><a href="/images/xylem-19-20-pdf-web.pdf" style="text-decoration: none">Xylem 2016-2017 Edition</a></p>
 
