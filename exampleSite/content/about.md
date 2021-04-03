@@ -104,6 +104,7 @@ career:
       display: flex;
       align-items: center;
       justify-content: center;
+      margin-right: 1rem;
     }
   	</style>
   <h1 class="staffCloudHeader">STAFF</h1>
