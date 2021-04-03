@@ -1,7 +1,7 @@
 ---
 title: publications
 layout: career
-description: Add Xylem past publications here
+description: <p>Xylem 2019-2020 Edition <a href="/images/xylem-19-20-pdf-web.pdf">example</a></p>
 about:
   enable: true
   title: Who we're looking for
