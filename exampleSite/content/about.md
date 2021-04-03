@@ -100,7 +100,10 @@ career:
       font-family: "bebas_neue_regular";
       color: #FFEBCD;
       font-size: 16px;
-      letter-spacing: 1px;  	
+      letter-spacing: 1px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
     }
   	</style>
   <h1 class="staffCloudHeader">STAFF</h1>
