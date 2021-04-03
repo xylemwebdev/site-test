@@ -1,7 +1,10 @@
 ---
 title: publications
 layout: career
-description: <p>Xylem 2019-2020 Edition <a href="/images/xylem-19-20-pdf-web.pdf">example</a></p>
+description: |
+  <p>Xylem 2019-2020 Edition <a href="/images/xylem-19-20-pdf-web.pdf">example</a></p>
+
+  Xylem Previous Publications
 about:
   enable: true
   title: Who we're looking for
