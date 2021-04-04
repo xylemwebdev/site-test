@@ -6,7 +6,7 @@ description: |-
 
   <br>
   <hr style="color:white">
-  <h4>general guidelines</h4>
+  <h3 align="left">general guidelines</h3>
 
   <p align="left"> 1. Create something weird, artsy, poetic, wacky, beautiful, terrifying, funny, whimsical … you get the idea. </p>
   <p align="left"> 2. Send it to us at xylemsubmit@gmail.com. </p>
