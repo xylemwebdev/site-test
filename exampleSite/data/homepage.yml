@@ -22,11 +22,11 @@ vision:
   section: ''
   vision_item:
   - title: ''
-    image: "/images/screen-shot-2021-03-26-at-6-09-10-pm.png"
+    image: "/images/leaf1.png"
     content: create something weird, artsy, poetic, <br> wacky, beautiful, terrifying
       - you get the idea.
   - title: ''
-    image: "/images/leaf2.png"
+    image: "/images/leaf1.png"
     content: send it to us at xylemsubmit@gmail.com
 product:
   enable: false
