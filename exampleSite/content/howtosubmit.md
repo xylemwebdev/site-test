@@ -9,8 +9,8 @@ description: |-
   <h3 align="left">general guidelines</h3>
 
   <p align="left" style="font-family: 'Baskerville'"> 1. Create something weird, artsy, poetic, wacky, beautiful, terrifying, funny, whimsical … you get the idea. </p>
-  <p align="left"> 2. Send it to us at xylemsubmit@gmail.com. </p>
-  <p align="left"> 3. Do it again. And again. And tell your friends to do it. </p>
+  <p align="left" style="font-family: 'Baskerville'"> 2. Send it to us at xylemsubmit@gmail.com. </p>
+  <p align="left" style="font-family: 'Baskerville'"> 3. Do it again. And again. And tell your friends to do it. </p>
 
   <hr style="color:white">
   <br>
