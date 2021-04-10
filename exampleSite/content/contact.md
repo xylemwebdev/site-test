@@ -2,9 +2,9 @@
 title: contact
 layout: career
 description: |-
-  <p align="left"> We’d love for you to join us in all our literary endeavors! Xylem has a close, hardworking staff of anywhere from 15-50 dedicated students interested in wide-ranging fields—from creative writing and publishing to finance and advertising to graphic design and communications. Since the mid-90s, Xylem has maintained a reputation for publishing some of the best creative work by students at the University of Michigan. Whether you’re interested in a leadership position as a member of our Executive Board, or if you would like to submit your own work for an opportunity to be a published writer or artist, or if you’d like a smaller role at one of the best student-run literary magazines on campus, Xylem is waiting for you. </p>
+  <p align="left" style="font-family: 'Baskerville'"> We’d love for you to join us in all our literary endeavors! Xylem has a close, hardworking staff of anywhere from 15-50 dedicated students interested in wide-ranging fields—from creative writing and publishing to finance and advertising to graphic design and communications. Since the mid-90s, Xylem has maintained a reputation for publishing some of the best creative work by students at the University of Michigan. Whether you’re interested in a leadership position as a member of our Executive Board, or if you would like to submit your own work for an opportunity to be a published writer or artist, or if you’d like a smaller role at one of the best student-run literary magazines on campus, Xylem is waiting for you. </p>
 
-  <p align="left">To be added to the Xylem staff email list for information about upcoming meetings and events, please email Clare Godfryd, the Editor-in-Chief, at goclare@umich.edu.</p>
+  <p align="left" style="font-family: 'Baskerville'">To be added to the Xylem staff email list for information about upcoming meetings and events, please email Clare Godfryd, the Editor-in-Chief, at goclare@umich.edu.</p>
 about:
   enable: true
   title: Who we're looking for
