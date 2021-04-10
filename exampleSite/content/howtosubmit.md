@@ -2,24 +2,24 @@
 title: how to submit
 layout: career
 description: |-
-  <p align="left">At Xylem, we believe in the creative power of the unrestrained imagination. That’s why our only true requirement for submissions to the magazine is that your original creative work is shareable with the great wide world out there. </p>
+  <p align="left" style="font-family: 'Baskerville'">At Xylem, we believe in the creative power of the unrestrained imagination. That’s why our only true requirement for submissions to the magazine is that your original creative work is shareable with the great wide world out there. </p>
 
   <br>
   <hr style="color:white">
   <h3 align="left">general guidelines</h3>
 
-  <p align="left"> 1. Create something weird, artsy, poetic, wacky, beautiful, terrifying, funny, whimsical … you get the idea. </p>
+  <p align="left" style="font-family: 'Baskerville'"> 1. Create something weird, artsy, poetic, wacky, beautiful, terrifying, funny, whimsical … you get the idea. </p>
   <p align="left"> 2. Send it to us at xylemsubmit@gmail.com. </p>
   <p align="left"> 3. Do it again. And again. And tell your friends to do it. </p>
 
   <hr style="color:white">
   <br>
 
-  <p align="left">We have a blind submissions process to make everything fair and square. Please include your name and contact info in the body of your email or attached as a separate cover sheet, but leave your name off the creative work itself. This allows for all of our staff to consider your submissions anonymously.</p>
+  <p align="left" style="font-family: 'Baskerville'">We have a blind submissions process to make everything fair and square. Please include your name and contact info in the body of your email or attached as a separate cover sheet, but leave your name off the creative work itself. This allows for all of our staff to consider your submissions anonymously.</p>
 
-  <p align="left">Submit away! Multiple submissions of all kinds of art — visual, written, recorded — are welcome, but please limit yourself to 5 submissions.</p>
+  <p align="left" style="font-family: 'Baskerville'">Submit away! Multiple submissions of all kinds of art — visual, written, recorded — are welcome, but please limit yourself to 5 submissions.</p>
 
-  <p align="left">For written work, please submit in one of the following formats: .docx / .doc  / .rtf.  For artwork, please submit in one of the following formats: .jpg / .tiff. </p>
+  <p align="left" style="font-family: 'Baskerville'">For written work, please submit in one of the following formats: .docx / .doc  / .rtf.  For artwork, please submit in one of the following formats: .jpg / .tiff. </p>
 about:
   enable: true
   title: Who we're looking for
