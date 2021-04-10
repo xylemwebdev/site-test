@@ -33,7 +33,7 @@ weight = 5
 author = "Themefisher"
 contact_info = ""
 description = "This is meta description"
-logo = "/images/xylemlogo.png"
+logo = "/images/xylem-logo-light-03.png"
 logo_width = "120px"
 preloader = true
 [params.cookies]
