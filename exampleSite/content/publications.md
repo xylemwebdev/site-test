@@ -9,11 +9,11 @@ description: |+
 
   <h5>Xylem Previous Publications</h5>
 
-  <p><a href="/images/xylem-19-20-pdf-web.pdf" style="text-decoration: none; color: #FFEBCD">Xylem 2018-2019 Edition</a></p>
+  <p style="font-family: 'Baskerville'"><a href="/images/xylem-19-20-pdf-web.pdf" style="text-decoration: none; color: #FFEBCD">Xylem 2018-2019 Edition</a></p>
 
-  <p><a href="/images/xylem-19-20-pdf-web.pdf" style="text-decoration: none; color: #FFEBCD">Xylem 2017-2018 Edition</a></p>
+  <p style="font-family: 'Baskerville'"><a href="/images/xylem-19-20-pdf-web.pdf" style="text-decoration: none; color: #FFEBCD">Xylem 2017-2018 Edition</a></p>
 
-  <p><a href="/images/xylem-19-20-pdf-web.pdf" style="text-decoration: none; color: #FFEBCD">Xylem 2016-2017 Edition</a></p>
+  <p style="font-family: 'Baskerville'"><a href="/images/xylem-19-20-pdf-web.pdf" style="text-decoration: none; color: #FFEBCD">Xylem 2016-2017 Edition</a></p>
 
 about:
   enable: true
