@@ -27,7 +27,7 @@
 			}
 
 			&:after {
-				content: '';
+				background: transparent;
 			}
 
 			@extend .image-reveal;
@@ -92,7 +92,7 @@
 			.hero-btn {
 				padding: 25px 50px;
 				font-weight: 600;
-				color: $white;
+				color: transparent;
 				border-radius: 0;
 				border: none;
 				letter-spacing: 2px;
