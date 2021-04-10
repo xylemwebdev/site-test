@@ -17,7 +17,7 @@
 
 			&::before {
 				content: '';
-				background: #0a0f61;
+				background: transparent;
 				position: absolute;
 				top: 0;
 				left: 0;
@@ -167,7 +167,7 @@
 			content: '';
 			width: 30px;
 			height: 1px;
-			background: #9ea0c9;
+			background: transparent;
 			left: 48%;
 			top: -4px;
 			overflow: hidden;
