@@ -57,29 +57,22 @@ description: |-
   <p class="staffCloudText">Staff XYZ</p>
   </div>
 
-  <div class='row'>
-    <div class='one'>One</div>
-    <div class='two'>Two</div>
-    <div class='three'>Three</div>
+  <div class="Row">
+      <div class="Column">C1</div>
+      <div class="Column">C2</div>
+      <div class="Column">C3</div>
   </div>
 
   <style>
-  .row {
-    border: 1px solid black;
-    padding: 1px;
+  .Row {
+      display: table;
+      width: 100%; /*Optional*/
+      table-layout: fixed; /*Optional*/
+      border-spacing: 10px; /*Optional*/
   }
-  .one {
-    border: 1px solid red;
-    display: inline-block;
-  }
-  .two {
-    border: 1px solid yellow;
-    display: inline-block;
-  }
-  .three {
-    border: 1px solid blue;
-    display: inline-block;
-    float: right;
+  .Column {
+      display: table-cell;
+      background-color: red; /*Optional*/
   }
   </style>
 about:
