@@ -30,11 +30,9 @@ vision:
     content: send it to us at xylemsubmit@gmail.com
 product:
   enable: true
-  section: Products
-  title: Some Of Our Best Products
-  content: See the innovation that has come through the Rio way. As an advancement
-    company, the goal is to continuously find areas to help business push forward.
-    Below you can find the first product available to help you do so.
+  section: ''
+  title: ''
+  content: ''
   product_item:
   - title: Ecosystem
     image: images/product/product-03.jpg
