@@ -58,7 +58,7 @@ description: |-
   </div>
 
   <div class="Row">
-      <div class="Column">Birdsong on a Silent Reservoir<br><br>
+      <div class="Column"><b>Birdsong on a Silent Reservoir</b><br><br>
   Behold the body of water<br>
   left breathless:<br>
   watch the fabric boil<br>
@@ -76,7 +76,7 @@ description: |-
   </div>
 
 
-  <div class="Column">Misconceptions of a Loon<br><br>
+  <div class="Column"><b>Misconceptions of a Loon</b><br><br>
   I.<br>
   The low cry<br>
   of a wolf<br>
