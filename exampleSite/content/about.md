@@ -1,7 +1,7 @@
 ---
 title: about
 layout: career
-description: |
+description: |-
   <p align="left" style="font-family: 'Baskerville'">Xylem Literary Magazine is an independent, student-run literary magazine at the University of Michigan that annually publishes original undergraduate student writing and art, including poetry, fiction, creative nonfiction, artwork and photography.</p>
 
   <p align="left" style="font-family: 'Baskerville'">The journal exclusively features the creative work of University of Michigan undergraduates, and all aspects of the journal’s publicity, production, and publication are student-run. All students are encouraged to submit writing and art for consideration. Beyond submitting work, there are numerous other ways to become involved in the creation of Xylem − from advertising to layout design to selecting pieces for publication.</p>
@@ -57,50 +57,28 @@ description: |
   <p class="staffCloudText">Staff XYZ</p>
   </div>
 
-  <html>
-    <head>
-      <title>CSS Grid inline-block</title>
-      <meta charset="utf-8">
-      <style>
-        .container {
-          width: 80%;
-          margin: 0 auto;
-          font-size: 0;
-          text-align: center;
-        }
-        .grid-item {
-          display: inline-block;
-          width: 200px;
-          height: 200px;
-          font-size: 1rem;
-          vertical-align: top;
-          margin: 5px;
-        }
-        .green {
-          background-color: darkgreen;
-        }
-        .red {
-          background-color: tomato;
-        }
-        .blue {
-          background-color: cornflowerblue;
-        }
-        .purple {
-          background-color: violet;
-        }
-        .orange {
-          background-color: orange;
-        }
-      </style>
-    </head>
-    <body>
-      <div class="container">
-        <div class="grid-item green"></div>
-        <div class="grid-item red"></div>
-        <div class="grid-item blue"></div>
-      </div>
-    </body>
-  </html>
+  .row {
+      border: 1px solid black;
+      padding: 1px;
+      display: flex;
+      text-align: center;
+  }
+  .one {
+      border: 1px solid red;
+  }
+  .two {
+      border: 1px solid yellow;
+      flex-grow: 1;
+  }
+  .three {
+      border: 1px solid blue;
+  }
+
+  <div class='row'>
+      <div class='one'>One</div>
+      <div class='two'>Two</div>
+      <div class='three'>Three</div>
+  </div>
 about:
   enable: true
   title: Who we're looking for
