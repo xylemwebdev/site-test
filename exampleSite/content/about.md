@@ -90,7 +90,22 @@ description: |-
   might expect to hear in the jungle<br>
   if you’d never been there...<br>
   </div>
-  <div class="Column">C3</div>
+  <div class="Column"><b>Athena Lemnia</b><br>
+  after Rainer Maria Rilke<br><br>
+
+  we cannot know what bounties she held<br>
+  in her hands, yet they still reach<br>
+  out towards us. our goddess gives<br>
+  as much as she takes. would<br>
+  she have shared her treasures<br>
+
+  with us too? in her home here,<br>
+  amongst the refugees. they all know<br>
+  her divine games too intimately,<br>
+  closer than jugular. how to make<br>
+  shelter from ash. how to<br>
+  remove shrapnel from your<br>
+  </div>
   </div>
 
   <style>
