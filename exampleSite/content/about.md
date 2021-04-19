@@ -119,6 +119,7 @@ description: |-
   .Column {
       display: table-cell;
       padding-left: 10px;
+      padding-right: 10px;
       text-align: left;
       font-family: "Baskerville Old Face";
       background-color: #ffebcd; /*Optional*/
