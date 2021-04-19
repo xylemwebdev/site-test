@@ -87,6 +87,7 @@ description: |-
   }
   .Column {
       display: table-cell;
+      text-align:center
       background-color: #ffebcd; /*Optional*/
   }
   </style>
