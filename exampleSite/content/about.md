@@ -90,19 +90,18 @@ description: |-
   might expect to hear in the jungle<br>
   if you’d never been there...<br>
   </div>
-  <div class="Column"><b>Misconceptions of a Loon</b><br><br>
+  <div class="Column"><b>Mother Moth</b><br><br>
   I.<br>
-  The low cry<br>
-  of a wolf<br>
-  cutting downward<br>
-  into silent moonlight.<br>
-  <br>
-  II.<br>
-  The kind of rounding whoop<br>
-  you wouldn’t hear<br>
-  in the jungle, but<br>
-  might expect to hear in the jungle<br>
-  if you’d never been there...<br>
+  I learned to fold origami moths<br>
+  last night under the white light<br>
+  of a hot lamp. I cut the<br>
+  paper, clamp the edges, wedge<br>
+  it in half, half, diagonal<br>
+  iambic, paired in two, no glue<br>
+  that's not the true art. I<br>
+  start my thumbs like engines,<br>
+  crank my crooked pinkies - <br>
+  silly little fingers! Mold and...<br>
   </div>
   </div>
 
