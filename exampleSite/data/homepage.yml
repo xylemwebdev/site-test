@@ -29,7 +29,7 @@ vision:
     image: "/images/leaf1.png"
     content: send it to us at xylemsubmit@gmail.com
 product:
-  enable: false
+  enable: true
   section: Products
   title: Some Of Our Best Products
   content: See the innovation that has come through the Rio way. As an advancement
