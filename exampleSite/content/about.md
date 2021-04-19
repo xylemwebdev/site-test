@@ -72,7 +72,7 @@ description: |-
   }
   .Column {
       display: table-cell;
-      background-color: red; /*Optional*/
+      background-color: #ffebcd; /*Optional*/
   }
   </style>
 about:
