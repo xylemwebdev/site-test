@@ -1,7 +1,7 @@
 ---
 title: about
 layout: career
-description: |-
+description: |
   <p align="left" style="font-family: 'Baskerville'">Xylem Literary Magazine is an independent, student-run literary magazine at the University of Michigan that annually publishes original undergraduate student writing and art, including poetry, fiction, creative nonfiction, artwork and photography.</p>
 
   <p align="left" style="font-family: 'Baskerville'">The journal exclusively features the creative work of University of Michigan undergraduates, and all aspects of the journal’s publicity, production, and publication are student-run. All students are encouraged to submit writing and art for consideration. Beyond submitting work, there are numerous other ways to become involved in the creation of Xylem − from advertising to layout design to selecting pieces for publication.</p>
@@ -56,75 +56,6 @@ description: |-
   <p class="staffCloudText">Staff XYZ</p>
   <p class="staffCloudText">Staff XYZ</p>
   </div>
-
-  <div class="Row">
-      <div class="Column"><b>Birdsong on a Silent Reservoir</b><br><br>
-  Behold the body of water<br>
-  left breathless:<br>
-  watch the fabric boil<br>
-  beneath dancing insects,<br>
-  beads of an oar<br>
-  hovering there,<br>
-  singing as they knead<br>
-  the charcoal.<br>
-             &nbsp;  &nbsp; &nbsp;  Listen:<br>
-  somewhere beneath the sun,<br>
-  the windless chime<br>
-  of the blue jays<br>
-  a pinpoint<br>
-  in the unchanging air.<br>
-  </div>
-
-
-  <div class="Column"><b>Misconceptions of a Loon</b><br><br>
-  I.<br>
-  The low cry<br>
-  of a wolf<br>
-  cutting downward<br>
-  into silent moonlight.<br>
-  <br>
-  II.<br>
-  The kind of rounding whoop<br>
-  you wouldn’t hear<br>
-  in the jungle, but<br>
-  might expect to hear in the jungle<br>
-  if you’d never been there...<br>
-  </div>
-  <div class="Column"><b>Mother Moth</b><br><br>
-  I.<br>
-  I learned to fold origami moths<br>
-  last night under the white light<br>
-  of a hot lamp. I cut the<br>
-  paper, clamp the edges, wedge<br>
-  it in half, half, diagonal<br>
-  iambic, paired in two, no glue<br>
-  that's not the true art. I<br>
-  start my thumbs like engines,<br>
-  crank my crooked pinkies - <br>
-  silly little fingers! Mold and<br>
-  mold and hold onto scraps.<br>
-  Wrap the edges around<br>
-  themselves like a constrictor...<br>
-  </div>
-  </div>
-
-  <style>
-  .Row {
-      display: table;
-      width: 100%; /*Optional*/
-      table-layout: fixed; /*Optional*/
-      border-spacing: 10px; /*Optional*/
-  }
-  .Column {
-      display: table-cell;
-      padding-left: 10px;
-      padding-right: 10px;
-      text-align: left;
-      font-family: "Baskerville Old Face";
-      background-color: #ffebcd; /*Optional*/
-      border-radius: 10px;
-  }
-  </style>
 about:
   enable: true
   title: Who we're looking for
