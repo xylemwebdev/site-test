@@ -57,28 +57,25 @@ description: |-
   <p class="staffCloudText">Staff XYZ</p>
   </div>
 
-  .row {
-      border: 1px solid black;
-      padding: 1px;
-      display: flex;
-      text-align: center;
-  }
-  .one {
-      border: 1px solid red;
-  }
-  .two {
-      border: 1px solid yellow;
-      flex-grow: 1;
-  }
-  .three {
-      border: 1px solid blue;
-  }
+  <div class="left">left</div>
+  <div class="right">right</div>
+  <div class="middle"><div class="form">middle form</div></div>
 
-  <div class='row'>
-      <div class='one'>One</div>
-      <div class='two'>Two</div>
-      <div class='three'>Three</div>
-  </div>
+  .left{
+      background:red;
+      min-width:70px;
+      float:left;
+
+  }
+  .middle{
+      background:yellow;
+
+  }
+  .right{
+      float:right;
+      min-width:70px;
+      background:green
+  }
 about:
   enable: true
   title: Who we're looking for
