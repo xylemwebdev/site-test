@@ -114,7 +114,6 @@ description: |-
       width: 100%; /*Optional*/
       table-layout: fixed; /*Optional*/
       border-spacing: 10px; /*Optional*/
-      border-radius: 25px;
   }
   .Column {
       display: table-cell;
