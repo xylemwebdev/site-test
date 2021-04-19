@@ -58,7 +58,7 @@ description: |-
   </div>
 
   <div class="Row">
-      <div class="Column">Birdsong on a Silent Reservoir<br>
+      <div class="Column">Birdsong on a Silent Reservoir<br><br>
   Behold the body of water<br>
   left breathless:<br>
   watch the fabric boil<br>
@@ -76,7 +76,7 @@ description: |-
   </div>
 
 
-  <div class="Column">Misconceptions of a Loon><br>
+  <div class="Column">Misconceptions of a Loon<br><br>
   I.<br>
   The low cry<br>
   of a wolf<br>
@@ -103,6 +103,7 @@ description: |-
   .Column {
       display: table-cell;
       text-align: left;
+      font-family: "Baskerville Old Face";
       background-color: #ffebcd; /*Optional*/
   }
   </style>
