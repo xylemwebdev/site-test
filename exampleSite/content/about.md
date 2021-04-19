@@ -101,7 +101,10 @@ description: |-
   that's not the true art. I<br>
   start my thumbs like engines,<br>
   crank my crooked pinkies - <br>
-  silly little fingers! Mold and...<br>
+  silly little fingers! Mold and<br>
+  mold and hold onto scraps.<br>
+  Wrap the edges around<br>
+  themselves like a constrictor...<br>
   </div>
   </div>
 
