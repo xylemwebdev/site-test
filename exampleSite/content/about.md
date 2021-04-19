@@ -56,26 +56,6 @@ description: |
   <p class="staffCloudText">Staff XYZ</p>
   <p class="staffCloudText">Staff XYZ</p>
   </div>
-
-  .left{
-      background:red;
-      min-width:70px;
-      float:left;
-
-  }
-  .middle{
-      background:yellow;
-
-  }
-  .right{
-      float:right;
-      min-width:70px;
-      background:green
-  }
-
-  <div class="left">left</div>
-  <div class="right">right</div>
-  <div class="middle"><div class="form">middle form</div></div>
 about:
   enable: true
   title: Who we're looking for
