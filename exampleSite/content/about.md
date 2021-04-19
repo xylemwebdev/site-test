@@ -56,6 +56,52 @@ description: |-
   <p class="staffCloudText">Staff XYZ</p>
   <p class="staffCloudText">Staff XYZ</p>
   </div>
+
+
+  <html>
+    <head>
+      <title>CSS Grid inline-block</title>
+      <meta charset="utf-8">
+      <style>
+        .container {
+          width: 80%;
+          margin: 0 auto;
+        }
+        .grid-item {
+          width: 200px;
+          height: 200px;
+        }
+        .green {
+          background-color: darkgreen;
+        }
+        .red {
+          background-color: tomato;
+        }
+        .blue {
+          background-color: cornflowerblue;
+        }
+        .purple {
+          background-color: violet;
+        }
+        .orange {
+          background-color: orange;
+        }
+      </style>
+    </head>
+    <body>
+      <div class="container">
+        <div class="grid-item green"></div>
+        <div class="grid-item red"></div>
+        <div class="grid-item blue"></div>
+        <div class="grid-item green"></div>
+        <div class="grid-item red"></div>
+        <div class="grid-item orange"></div>
+        <div class="grid-item green"></div>
+        <div class="grid-item purple"></div>
+        <div class="grid-item green"></div>
+      </div>
+    </body>
+  </html>
 about:
   enable: true
   title: Who we're looking for
