@@ -123,7 +123,7 @@ description: |-
       text-align: left;
       font-family: "Baskerville Old Face";
       background-color: #ffebcd; /*Optional*/
-      border-radius: 25px;
+      border-radius: 10px;
   }
   </style>
 about:
