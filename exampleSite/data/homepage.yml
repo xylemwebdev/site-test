@@ -29,7 +29,7 @@ vision:
     image: "/images/leaf1.png"
     content: send it to us at xylemsubmit@gmail.com
 product:
-  enable: true
+  enable: false
   section: ''
   title: ''
   content: ''
