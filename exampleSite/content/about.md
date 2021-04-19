@@ -1,7 +1,7 @@
 ---
 title: about
 layout: career
-description: |-
+description: |
   <p align="left" style="font-family: 'Baskerville'">Xylem Literary Magazine is an independent, student-run literary magazine at the University of Michigan that annually publishes original undergraduate student writing and art, including poetry, fiction, creative nonfiction, artwork and photography.</p>
 
   <p align="left" style="font-family: 'Baskerville'">The journal exclusively features the creative work of University of Michigan undergraduates, and all aspects of the journal’s publicity, production, and publication are student-run. All students are encouraged to submit writing and art for consideration. Beyond submitting work, there are numerous other ways to become involved in the creation of Xylem − from advertising to layout design to selecting pieces for publication.</p>
@@ -57,10 +57,6 @@ description: |-
   <p class="staffCloudText">Staff XYZ</p>
   </div>
 
-  <div class="left">left</div>
-  <div class="right">right</div>
-  <div class="middle"><div class="form">middle form</div></div>
-
   .left{
       background:red;
       min-width:70px;
@@ -76,6 +72,10 @@ description: |-
       min-width:70px;
       background:green
   }
+
+  <div class="left">left</div>
+  <div class="right">right</div>
+  <div class="middle"><div class="form">middle form</div></div>
 about:
   enable: true
   title: Who we're looking for
