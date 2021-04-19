@@ -98,12 +98,6 @@ description: |
         <div class="grid-item green"></div>
         <div class="grid-item red"></div>
         <div class="grid-item blue"></div>
-        <div class="grid-item green"></div>
-        <div class="grid-item red"></div>
-        <div class="grid-item orange"></div>
-        <div class="grid-item green"></div>
-        <div class="grid-item purple"></div>
-        <div class="grid-item green"></div>
       </div>
     </body>
   </html>
