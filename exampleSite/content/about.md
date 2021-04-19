@@ -104,26 +104,6 @@ description: |-
   might expect to hear in the jungle<br>
   if you’d never been there...<br>
   </div>
-  <div class="Column">
-  <b>Mother Moth</b><br><br>
-
-  I.<br>
-  I learned to fold origami moths<br>
-  last night under the white light<br>
-  of a hot lamp. I cut the<br>
-  paper, clamp the edges, wedge<br>
-  it in half, half, diagonal<br>
-  iambic, paired in two, no glue,<br>
-  that’s not the true art. I<br>
-  start my thumbs like engines,<br>
-  crank my crooked pinkies -<br>
-  silly little fingers! Mold and<br>
-  mold and hold onto scraps.<br>
-  Wrap the edges around<br>
-  themselves like a constrictor.<br>
-  Stricter. They flicker as the...<br>
-
-  </div>
   </div>
 
   <style>
