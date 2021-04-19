@@ -90,21 +90,25 @@ description: |-
   might expect to hear in the jungle<br>
   if you’d never been there...<br>
   </div>
-  <div class="Column"><b>Athena Lemnia</b><br>
-  after Rainer Maria Rilke<br><br>
+  <div class="Column">
+  <b>Mother Moth</b><br><br>
 
-  we cannot know what bounties she held<br>
-  in her hands, yet they still reach<br>
-  out towards us. our goddess gives<br>
-  as much as she takes. would<br>
-  she have shared her treasures<br>
+  I.<br>
+  I learned to fold origami moths<br>
+  last night under the white light<br>
+  of a hot lamp. I cut the<br>
+  paper, clamp the edges, wedge<br>
+  it in half, half, diagonal<br>
+  iambic, paired in two, no glue,<br>
+  that’s not the true art. I<br>
+  start my thumbs like engines,<br>
+  crank my crooked pinkies -<br>
+  silly little fingers! Mold and<br>
+  mold and hold onto scraps.<br>
+  Wrap the edges around<br>
+  themselves like a constrictor.<br>
+  Stricter. They flicker as the...<br>
 
-  with us too? in her home here,<br>
-  amongst the refugees. they all know<br>
-  her divine games too intimately,<br>
-  closer than jugular. how to make<br>
-  shelter from ash. how to<br>
-  remove shrapnel from your<br>
   </div>
   </div>
 
