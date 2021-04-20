@@ -2,28 +2,6 @@
 title: ''
 layout: career
 description: |-
-  <style>
-  .pageSection {
-  width: 100%;
-  height: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  }
-
-  .headerBackground {
-  width: 300px;
-  height 168px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-image: url("/images/leafwrap2.png");
-  background-repeat: no-repeat;
-  background-position: center;
-  }
-  </style>
-
   <div class="pageSection">
   <div class="headerBackground">
   <h1>about</h1>
