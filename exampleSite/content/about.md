@@ -2,7 +2,21 @@
 title: ''
 layout: career
 description: |-
+  <style>
+  .headerBackground {
+  width: 300px;
+  height 168px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("/images/leafwrap2.png");
+  background-repeat: norepeat;
+  background-position: center;
+  }
+  </style>
+  <div class="headerBackground">
   <h1>about</h1>
+  </div>
 
   <p align="left" style="font-family: 'Baskerville'">Xylem Literary Magazine is an independent, student-run literary magazine at the University of Michigan that annually publishes original undergraduate student writing and art, including poetry, fiction, creative nonfiction, artwork and photography.</p>
 
@@ -25,7 +39,10 @@ description: |-
   margin-right: 1rem;
   }
   </style>
+  <div class="headerBackground">
   <h1 class="staffCloudHeader">staff</h1>
+  </div>
+
   <p class="staffCloudText">Clare Godfryd</p>
   <p class="staffCloudText">Simran Malik</p>
   <p class="staffCloudText">Maia Muzumdar</p>
@@ -58,12 +75,6 @@ description: |-
   <p class="staffCloudText">Staff XYZ</p>
   <p class="staffCloudText">Staff XYZ</p>
   </div>
-
-  <style>
-  h1 {
-  background-image:url("/images/leafwrap2.png")
-  }
-  </style>
 about:
   enable: true
   title: Who we're looking for
