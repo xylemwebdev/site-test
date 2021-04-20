@@ -28,20 +28,22 @@
     }
     
 .headerBackground {
-    width: 300px;
+    width: 100%;
     height: 168px;
     display: flex;
     justify-content: center;
     align-items: center;
     background-image: url("/images/leafwrap2.png");
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: right;
+    background-size: 648px 246px;
 }
 
 .staffCloudHeader {
     width: 100%;
     text-align: center;
 }
+
 .staffCloudText {
     font-family: "Baskerville";
     color: #FFEBCD;
@@ -51,4 +53,16 @@
     align-items: center;
     justify-content: center;
     margin-right: 1rem;
+}
+
+.fbIcon {
+    height: 70px;
+    width: auto;
+    margin-right: 10px;
+}
+
+.igIcon {
+    height: 70px;
+    width: auto;
+    margin-left: 10px;
 }
