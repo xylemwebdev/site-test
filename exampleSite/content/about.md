@@ -56,6 +56,12 @@ description: |-
   <p class="staffCloudText">Staff XYZ</p>
   <p class="staffCloudText">Staff XYZ</p>
   </div>
+
+  <style>
+  h1 {
+  background-image:"/images/leafwrap3.png"
+  }
+  </style>
 about:
   enable: true
   title: Who we're looking for
