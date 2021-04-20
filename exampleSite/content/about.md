@@ -59,7 +59,7 @@ description: |-
 
   <style>
   h1 {
-  background-image:url("/images/leafwrap3.png")
+  background-image:url("/images/leafwrap2.png")
   }
   </style>
 about:
