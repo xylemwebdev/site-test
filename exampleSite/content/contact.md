@@ -96,22 +96,11 @@ career:
 
 ---
 <div style="display:flex;justify-content:center;align-items:center">
-  	<style type="text/css" scoped>
-    .fbIcon {
-    	height: 70px;
-      	width: auto;
-      	margin-right: 10px;
-    }
-    .igIcon {
-    	height: 70px;
-      	width: auto;
-      	margin-left: 10px;
-    }
-  	</style>
-	<a href="https://www.facebook.com/xylemlitmag/">
-      <img src="/images/facebook-logo.svg" class="fbIcon" />
-  	</a>
-	<a href="https://www.instagram.com/xylemlitmag/">
-      <img src="/images/instagram-logo.svg" class="igIcon" />
-  	</a>
+
+<a href="https://www.facebook.com/xylemlitmag/">
+<img src="/images/facebook-logo.svg" class="fbIcon" />
+</a>
+<a href="https://www.instagram.com/xylemlitmag/">
+<img src="/images/instagram-logo.svg" class="igIcon" />
+</a>
 </div>
