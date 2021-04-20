@@ -1,7 +1,10 @@
 ---
-title: how to submit
+title: ''
 layout: career
 description: |-
+  <div class="headerBackground">
+  <h1>how to submit</h1>
+  </div>
   <p align="left" style="font-family: 'Baskerville'">At Xylem, we believe in the creative power of the unrestrained imagination. That’s why our only true requirement for submissions to the magazine is that your original creative work is shareable with the great wide world out there. </p>
 
   <br>
