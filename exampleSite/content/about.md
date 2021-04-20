@@ -3,7 +3,7 @@ title: ''
 layout: career
 description: |-
   <style>
-  .pageSection: {
+  .pageSection {
   width: 100%;
   height: 100%;
   display: flex;
